@@ -1,0 +1,8 @@
+{
+    "TOKEN": "Bot Token here",
+    "LOG": "Aurora.log",
+    "BOT": {
+        "name": "Aurora",
+        "profile": "https://img2.imgbiz.com/imgbiz/1000087605.md.jpg"
+    }
+}
